@@ -1,0 +1,1001 @@
+avg perplexity: 136758968.79318216
+<s> <s> the terrier follows <unk> <unk> wagging his tail the bawd jewman s melt </s>	138680.586288267
+<s> <s> <unk> </s>	4088868.1126954276
+<s> <s> the <unk> of the <unk> over the bed </s>	81319883.53931549
+<s> <s> licentious men </s>	11861.892385350926
+<s> <s> drowning they say is the <unk> </s>	59187915.010129884
+<s> <s> paris past and present he said </s>	197793.96897373
+<s> <s> the bloody nag took fright and the old mongrel after the car like bloody hell and all the populace shouting and laughing and the old <unk> clattering along the street </s>	308594.0338283463
+<s> <s> lourdes cure waters of <unk> and the knock apparition statues bleeding </s>	133546.16295355908
+<s> <s> he is english buck mulligan said and he thinks we ought to speak irish in ireland </s>	5282895.901231985
+<s> <s> who </s>	64494207.07442868
+<s> <s> sparkling bronze <unk> eyed <unk> s skyblue bow and eyes </s>	46087.8729672628
+<s> <s> her <unk> is <unk> two royal dublins in o <unk> s of <unk> </s>	501833.5475883266
+<s> <s> why did bloom refrain from stating that he had <unk> the university of life </s>	10962206.321008414
+<s> <s> they shine in the dark perhaps the tips </s>	1682718.9312588403
+<s> <s> crooked skirt swinging whack by </s>	155750200.2966887
+<s> <s> what relation existed between their ages </s>	30424.09228766336
+<s> <s> i throw this ended shadow from me <unk> ineluctable call it back </s>	47795.772514142285
+<s> <s> living in a <unk> eating cheap food and the streets <unk> with dust <unk> and <unk> spits </s>	56420.96474471472
+<s> <s> joe hynes why are not you in uniform </s>	293855.25124256185
+<s> <s> <unk> <unk> hynes put it in of course _the remains of the late mr patrick dignam were removed from his residence no <NUM> <unk> avenue sandymount for interment in glasnevin </s>	1297070.127424904
+<s> <s> the <unk> porkbutcher folded the sausages he had <unk> off with <unk> fingers <unk> </s>	339548.35321973934
+<s> <s> after this <unk> which he delivered with much warmth of <unk> mr mulligan in a <unk> put off from his hat a kerchief with which he had <unk> it </s>	2444487.5268914658
+<s> <s> save you kindly says j. j. what will it be ned </s>	698048.8218345678
+<s> <s> he <unk> himself yes by <unk> sixteen three quarters </s>	2602166.4021630813
+<s> <s> brave </s>	11289.591248374523
+<s> <s> bloom <unk> yes </s>	18377093.876741372
+<s> <s> i got mummy s lovely box of <unk> and am writing </s>	333111.88051794196
+<s> <s> it is to be repeated in the <unk> where is what is his name </s>	10245407.745072445
+<s> <s> could do it myself </s>	14759307.083287846
+<s> <s> <unk> </s>	4088868.1126954276
+<s> <s> every mortal day a fresh batch <unk> men old women children women dead in <unk> men with beards <unk> <unk> <unk> girls with little <unk> breasts </s>	36483.006601410794
+<s> <s> <unk> the <unk> <unk> with the <unk> <unk> </s>	24162204.68828418
+<s> <s> virtuous but occasionally they were also <unk> </s>	12610.876273615911
+<s> <s> <unk> the teapot </s>	399369.2879390366
+<s> <s> if ever he does </s>	117379551.70698707
+<s> <s> music </s>	988154428.0882057
+<s> <s> let out to <unk> </s>	4659717.092116787
+<s> <s> how she met her death </s>	42018.405636412834
+<s> <s> throw it there </s>	7769844.615445186
+<s> <s> one moment </s>	500534514.9619235
+<s> <s> under their dropped lids his eyes found the tiny bow of the leather headband inside his high grade ha </s>	504744.1694676591
+<s> <s> <unk> </s>	4088868.1126954276
+<s> <s> stephen reached back and took the <unk> from the locker </s>	3944372.351781814
+<s> <s> then i will tell you all </s>	413440048.30560225
+<s> <s> i am not a triple screw <unk> </s>	716202.0621942125
+<s> <s> it may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement </s>	5978347.181722293
+<s> <s> dilly dedalus <unk> by the curbstone heard the beats of the bell the cries of the <unk> within </s>	98354.93525045791
+<s> <s> mr dedalus asked </s>	149009088.00557432
+<s> <s> at the risk of her own was the telling <unk> of his <unk> none the less <unk> for the <unk> and measured tone in which it was delivered </s>	1047504.5809504391
+<s> <s> says alf </s>	82455564.70589817
+<s> <s> hold hard </s>	971277846.7465668
+<s> <s> they fit well enough stephen answered </s>	174992.23827919178
+<s> <s> the <unk> the <unk> and the saxon know not </s>	1117183.7375616129
+<s> <s> <unk> </s>	4088868.1126954276
+<s> <s> near <unk> by now </s>	17538645.826082353
+<s> <s> about her <unk> face hair <unk> </s>	2930724.3446525065
+<s> <s> what were his reflections concerning the last member of this series and late <unk> of the bed </s>	153305.80226349327
+<s> <s> when i said to molly the man at the corner of cuffe street was goodlooking thought she might like <unk> at once he had a false arm </s>	564166.6609224776
+<s> <s> job seems to suit them </s>	12462.09445536429
+<s> <s> the priest in that <unk> will case in the witnessbox </s>	413751.82842939254
+<s> <s> crofton </s>	13343988.666316897
+<s> <s> klook </s>	1697398243.9022682
+<s> <s> yes of course he said as they went on again </s>	29153349.78750172
+<s> <s> erin </s>	13343988.666316897
+<s> <s> bit torn off </s>	214129.83224859525
+<s> <s> shall we see you at moore s tonight </s>	50060.64672456296
+<s> <s> j. j. o molloy turned to stephen and said quietly and slowly one of the most polished <unk> i think i ever listened to in my life fell from the lips of seymour bushe </s>	5431748.761022798
+<s> <s> bloom who </s>	11291272.563768223
+<s> <s> a <unk> lass never drew the breath of life always with a laugh in her <unk> eyes and a <unk> word on her <unk> red lips a girl <unk> in the extreme </s>	1673624.958979123
+<s> <s> i seen <unk> </s>	21061639.26253968
+<s> <s> you have made your secondbest bed and others must lie in it </s>	95196.05170552131
+<s> <s> curiously they are on the right </s>	9495676.277350396
+<s> <s> there is hornblower standing at the porter s lodge </s>	780859.0551024439
+<s> <s> one dragged aside an old woman peeping </s>	130341.42960052514
+<s> <s> the lacquey rang his bell behind their backs </s>	8262041.079019736
+<s> <s> you are not fit to touch the garment of a pure woman </s>	782503.2403853108
+<s> <s> under what <unk> following what signs </s>	50781.44757427869
+<s> <s> i will see you across </s>	6224833.873644534
+<s> <s> bello laughs mockingly that is your daughter you owl with a mullingar student </s>	180765.6243369602
+<s> <s> a double <unk> <unk> of water vapour from under the <unk> at both sides simultaneously </s>	2572793.4128778167
+<s> <s> mercadante seven last words </s>	2166726.2305000364
+<s> <s> <unk> </s>	4088868.1126954276
+<s> <s> that was a rare bit of <unk> </s>	3647296.8020880306
+<s> <s> a speck of dust on the patent leather of her boot </s>	218905.19207935952
+<s> <s> <unk> </s>	4088868.1126954276
+<s> <s> a woman s hand flung forth a coin over the area railings </s>	17723656.27859626
+<s> <s> no </s>	23985540.22287698
+<s> <s> ay says ned </s>	19918182.725982036
+<s> <s> between two roaring worlds where they <unk> i. <unk> them one and both </s>	27698.833047715936
+<s> <s> buck mulligan cried </s>	279498479.0593936
+<s> <s> zoe go on </s>	57559786.19464118
+<s> <s> that the language question should take precedence of the economic question </s>	57260.406327946745
+<s> <s> <unk> a. will you tell him he can kiss my arse </s>	676350.6733480127
+<s> <s> she is not exactly witty </s>	913552.469564912
+<s> <s> my dear kitty told me today that she would dance in a <unk> before ever she would starve in such an <unk> of salvation for as she reminded me blushing <unk> and whispering in my ear though there was none to snap her words but giddy <unk> dame nature by the divine blessing has <unk> it in our hearts and it has become a household word that _il y a deux <unk> for which the innocence of our original garb in other circumstances a breach of the <unk> is the fittest nay the only garment </s>	98598.93438147695
+<s> <s> and the identical same with murderers </s>	97020.37148304397
+<s> <s> i do not know who he is </s>	186236999.13079217
+<s> <s> i speak the tongue of a race the acme of whose <unk> is the maxim time is money </s>	530127.2500503516
+<s> <s> a tiny yawn opened the mouth of the wife of the gentleman with the glasses </s>	27244769.760822725
+<s> <s> with this came up lenehan to the feet of the table to say how the letter was in that night s gazette and he made a show to find it about him for he swore with an oath that he had been at pains about it but on stephen s <unk> he gave over the search and was <unk> to sit near by which he did mighty brisk </s>	650106.9111296252
+<s> <s> got the <unk> now </s>	90182894.98649958
+<s> <s> a server of a servant </s>	19132188.13033946
+<s> <s> god knows you have more spirit than any of them </s>	238525.38134116598
+<s> <s> latin </s>	11289.591248374523
+<s> <s> i should not have parted with my talisman </s>	327800.5755937294
+<s> <s> wait </s>	68330652.66834857
+<s> <s> he rested an innocent book on the edge of the desk smiling his <unk> </s>	274319.8838723073
+<s> <s> said thee fox too thee stork will you put your bill down inn my <unk> and pull <unk> ah bone </s>	97288.60486610298
+<s> <s> when first he saw </s>	158987211.66467032
+<s> <s> boosed at five of the clock </s>	1956402.6671804406
+<s> <s> what </s>	18383565.14518041
+<s> <s> with awe mr power s blank voice spoke some say he is not in that grave at all </s>	176639.7646554016
+<s> <s> <unk> the elephant loves alice the elephant </s>	72319.7087302332
+<s> <s> his <unk> breast is the repository of secrets which <unk> is reluctant to adduce </s>	36876.840749213865
+<s> <s> what is this her name was </s>	2858677.752991208
+<s> <s> nice little things </s>	123994.8134388212
+<s> <s> so off they started about irish sports and <unk> games the like of lawn tennis and about <unk> and putting the stone and <unk> of the soil and building up a nation once again and all to that </s>	320906.4114473479
+<s> <s> give him the key too </s>	29618905.998250626
+<s> <s> the death struggle </s>	43309.18309879042
+<s> <s> with a dry <unk> you intended to <unk> an entire year to the study of the religious problem and the summer months of <NUM> to square the circle and win that million </s>	94395.13798984852
+<s> <s> it beats me mr bloom <unk> to stephen medically i am speaking how a wretched creature like that from the lock hospital <unk> with disease can be barefaced enough to solicit or how any man in his sober senses if he values his health in the least </s>	116812.04210832357
+<s> <s> opening of his waistcoat </s>	41896438.909840025
+<s> <s> <unk> <unk> words shimmering on the dim tide </s>	50703.636595415446
+<s> <s> sea serpent in the royal canal </s>	2923485.963998088
+<s> <s> on the whole though <unk> preferably light opera of the <unk> <unk> description and <unk> a gem in its line he had a <unk> though with only a surface knowledge for the severe classical school such as mendelssohn </s>	121348.53215279961
+<s> <s> again <unk> stooping her fair pinnacles of hair stooping her <unk> <unk> showed <unk> out of her mouth her tea choking in tea and laughter coughing with choking crying o greasy eyes </s>	98513.9406220726
+<s> <s> and the others inclined to give her an odd dig </s>	144113.16987659855
+<s> <s> gagged sweetly buck mulligan </s>	208957.79497584686
+<s> <s> down the edge of his _freeman_ baton <unk> bloom s your other eye scanning for where did i see that </s>	1231323.9808527797
+<s> <s> strong as a brood mare some of those <unk> women </s>	849857.7063638336
+<s> <s> against john long s a <unk> loafer <unk> in heavy thought gnawing a crusted knuckle </s>	26624.49842457868
+<s> <s> is </s>	551368.9072273877
+<s> <s> blue jacket and yellow cap </s>	87454.01827914144
+<s> <s> the lords of the moon <unk> told me an <unk> <unk> from planet alpha of the lunar chain would not <unk> the <unk> doubles and these were therefore <unk> by the <unk> <unk> from the second constellation </s>	458128.1848902829
+<s> <s> bloom <unk> <unk> padded in nondescript juvenile grey and black striped suit too small for him white tennis shoes <unk> stockings with <unk> tops and a red <unk> with badge i was in my <unk> a growing boy </s>	93752.50705657752
+<s> <s> <unk> the lid he who gazed in the coffin coffin at the <unk> triple piano wires </s>	113172.84944839712
+<s> <s> <unk> the whole place </s>	28362394.856071047
+<s> <s> every knot says a lot </s>	61898.411750087296
+<s> <s> why pay more </s>	81172.58115752648
+<s> <s> and his <unk> was open </s>	12290962.771365603
+<s> <s> <unk> and always was ever since he was <unk> </s>	5666841.615559276
+<s> <s> you pay eighty marks and they plant a <unk> of land for you with olives oranges <unk> or citrons </s>	26153.757557975587
+<s> <s> society over the way papa went to for the conversion of poor jews </s>	565220.3112626199
+<s> <s> she counts two three mars that is courage </s>	25661.91525693744
+<s> <s> <unk> at daly s. </s>	5850765.952624528
+<s> <s> <unk> in corners </s>	429840.5243704177
+<s> <s> a tiny coffin flashed by </s>	32935.060342533994
+<s> <s> misery </s>	2652761825.8464284
+<s> <s> his tangled hair and <unk> neck gave witness of <unk> and through his misty glasses weak eyes looked up pleading </s>	99962.39359872731
+<s> <s> tinkling </s>	11289.591248374523
+<s> <s> stephen how do i stand you </s>	258517.09035173114
+<s> <s> love is the name </s>	121748639.74836797
+<s> <s> wonder how is she feeling in that region </s>	2789285.6797541045
+<s> <s> hm </s>	368228375.68157804
+<s> <s> why could he then support that his vigil with the greater equanimity </s>	22921.23385539156
+<s> <s> if the shrew is <unk> yet there remains to her woman s invisible weapon </s>	105844.89776764494
+<s> <s> like milly s was </s>	1078198.8078779774
+<s> <s> the latter by the line of least resistance </s>	392743.5649380086
+<s> <s> bloom wrong </s>	101027.00152037344
+<s> <s> with <unk> flesh <unk> he mutely <unk> to adore </s>	77312.35108299513
+<s> <s> <unk> pie </s>	66816.90416639247
+<s> <s> o that is all only all right </s>	4200457.79450227
+<s> <s> so of course everyone had the laugh at bloom and says he trying to <unk> out of it or also living in different places </s>	1393740.3492947943
+<s> <s> money was no object he said nor would he take a penny for his pains </s>	286421.9957379238
+<s> <s> we serve them </s>	76795.54641802373
+<s> <s> but they must breed a devil of a lot of <unk> </s>	6107692.858486138
+<s> <s> the harlot s cry from street to street shall weave old england s windingsheet </s>	225128721.8972182
+<s> <s> plain and loved loved for ever they say </s>	136388.16518435668
+<s> <s> <unk> of flesh behind on him </s>	2770000.302072033
+<s> <s> james m <unk> s <unk> to row me over the <unk> </s>	3047581.7071257127
+<s> <s> i just called to ask on the way in is she over it </s>	557988.2808016288
+<s> <s> it is the moment you feel </s>	1934087.6513669714
+<s> <s> certainly certainly certainly </s>	163382.6763508173
+<s> <s> <unk> rutilantium te <unk> turma circumdet iubilantium te virginum chorus <unk> <unk> </s>	689314.5474385014
+<s> <s> kinch get the jug </s>	106776.07181451024
+<s> <s> mr bloom was all at sea for a moment seeing the others evidently eavesdropping too </s>	840506.5959621989
+<s> <s> blaze on </s>	11861.892385350926
+<s> <s> was he there when the father </s>	993823.3733698082
+<s> <s> i will he said gravely </s>	1192728.4024927153
+<s> <s> i should have said when he clapped on his <unk> </s>	957235.7498334057
+<s> <s> excuse miss there is a <unk> just a <unk> <unk> </s>	635905.9887163378
+<s> <s> the champion of all ireland at putting the sixteen pound shot </s>	50743.94773107519
+<s> <s> my <unk> hat and staff and <unk> <unk> <unk> </s>	2495455.7976431525
+<s> <s> that is why i asked you if you wrote your poetry in italian </s>	1017925.2449954569
+<s> <s> i changed a sovereign i remember </s>	127532.8745947998
+<s> <s> a <unk> opens with a <unk> yawn </s>	201982.8558067744
+<s> <s> wish i could see his face though </s>	64884758.31011555
+<s> <s> shut your eyes and open your mouth </s>	32897709.394653864
+<s> <s> he was in the red bank this morning </s>	25890474.80876419
+<s> <s> t. <unk> o. s. a. the rev </s>	29201310.098841425
+<s> <s> god save you says the citizen </s>	15343309.753042601
+<s> <s> moorish </s>	13343988.666316897
+<s> <s> looking for something lost in a past life </s>	20655842.773887545
+<s> <s> he is the ghost and the prince </s>	5602062.192178826
+<s> <s> what did each do at the door of egress </s>	7327551.160585474
+<s> <s> enjoyed her <unk> </s>	119137.14553833938
+<s> <s> now my miss </s>	3916005291.289048
+<s> <s> he is a bloody dark horse himself says joe </s>	788036.5761442081
+<s> <s> none of your lean kine not much </s>	6278932.84075041
+<s> <s> who knows what they are always flying for </s>	1799886.92258198
+<s> <s> bloom reflects <unk> that <unk> commode </s>	138470.4731799014
+<s> <s> dublin bakery company s <unk> </s>	379308.9565294552
+<s> <s> <unk> <unk> hard woman at a bargain her bonnet awry </s>	520570.3385853941
+<s> <s> the gravediggers bore the coffin and set its nose on the <unk> <unk> the bands round it </s>	1019529.9236888228
+<s> <s> he <unk> and we to be there <unk> and you to be <unk> sending us your <unk> the way we to have our tongues out a yard long like the <unk> <unk> do be <unk> for a <unk> </s>	681052.3189578135
+<s> <s> why was the host reluctant unresisting still </s>	2765621.7178065805
+<s> <s> <unk> makes them nervous </s>	589916.3789555329
+<s> <s> get thee a <unk> </s>	363174.0286523346
+<s> <s> they would not give anything on them she said </s>	6951947.397551951
+<s> <s> mr power asked </s>	271639756.2188578
+<s> <s> it is what i tried to <unk> my crime </s>	8580833.129042434
+<s> <s> just <unk> there quiet dusk let everything rip </s>	735983.3050769845
+<s> <s> mine over there towards finglas the plot i bought </s>	36588.41074699378
+<s> <s> live on fish <unk> flesh they have all <unk> gulls <unk> </s>	302754.19494972663
+<s> <s> love yes </s>	245251.47019363905
+<s> <s> bloom yes madam </s>	1126905.6727236572
+<s> <s> and his wife engagement in the country valise voice like a <unk> </s>	1329111.704324062
+<s> <s> do not tell anyone says the citizen </s>	620577339.5010084
+<s> <s> symmetry under a cemetery wall </s>	14728729.59858504
+<s> <s> ay says i. whisky and water on the brain </s>	366666.242313128
+<s> <s> he <unk> a widow absence makes the heart grow younger </s>	107536.09927265893
+<s> <s> that is <unk> the professor said <unk> </s>	82814964.59690267
+<s> <s> fort camden and fort carlisle </s>	14730980.676736498
+<s> <s> he hummed <unk> in solemn echo the closes of the bars don giovanni a <unk> <unk> m <unk> </s>	457145.5733769138
+<s> <s> yes her lips said more loudly mr dollard </s>	109274.6669342845
+<s> <s> father conmee walking thought of his little book <unk> times in the <unk> and of the book that might be written about jesuit houses and of mary <unk> daughter of lord molesworth first countess of belvedere </s>	663339.9693594958
+<s> <s> <unk> says j. j. one of the <unk> <unk> it was went by the name of james <unk> <unk> <unk> <unk> <unk> and <unk> put an ad in the papers saying he would give a passage to canada for twenty bob </s>	1726634.8085981288
+<s> <s> stephen he had three brothers gilbert edmund richard </s>	27636.56181616753
+<s> <s> she is the bride of darkness a daughter of night </s>	6292901.168117678
+<s> <s> it is a secret </s>	1150283.965166515
+<s> <s> o yes </s>	153963088.55648965
+<s> <s> and they teach the <unk> there to <unk> themselves up on long sticks out of the ground and of the <unk> of these <unk> they brew out a <unk> like to mead </s>	2863170.244694947
+<s> <s> chips </s>	4611778403.657221
+<s> <s> quarter past </s>	731943.2489513485
+<s> <s> mr bloom with his stick gently <unk> the thick sand at his foot </s>	186289.3937368273
+<s> <s> he <unk> gaelic league spy sent by that <unk> </s>	565175.6786498403
+<s> <s> day </s>	610347523.1490128
+<s> <s> klook klook klook </s>	2285229230.0679593
+<s> <s> bath a most private thing </s>	131752.94465955798
+<s> <s> particularly nice old party for a cup of tea </s>	1994085.0004823422
+<s> <s> egg two evidently demolished he nodded and winked adding <unk> <unk> bill shoots to kill never missed nor he never will a silence ensued till mr bloom for <unk> sake just felt like asking him whether it was for a <unk> competition like the <unk> </s>	55925.12263200799
+<s> <s> mr bloom smiled o rocks at two windows of the <unk> </s>	1427371.2356550808
+<s> <s> history to blame </s>	3355175.7735185246
+<s> <s> <unk> up </s>	161976922.9299522
+<s> <s> said the ace of spades was walking up the stairs </s>	4488010.279604655
+<s> <s> then nay no i have an <unk> </s>	21897374.183123477
+<s> <s> p. o. dolphin s barn the <unk> name and address of the <unk> of the <NUM> letters in reversed <unk> <unk> <unk> <unk> <unk> <unk> suppressed n. <unk> <unk> </s>	1696564.9874132273
+<s> <s> cunty kate blushing deeply nay madam </s>	429798.9848198206
+<s> <s> he counted the <unk> of <unk> leather wherein another s foot had <unk> warm </s>	45183.91407301874
+<s> <s> poor penelope </s>	12826587.487043796
+<s> <s> on his suit he has diamond and ruby buttons </s>	87610.62375912262
+<s> <s> no leopold </s>	117726.98979947712
+<s> <s> you will pull it out somewhere and lose it </s>	254628.68622001042
+<s> <s> but it was scarcely professional etiquette so </s>	373246.6699691878
+<s> <s> you </s>	38904735.30229348
+<s> <s> a voice within the tower called loudly are you up there mulligan </s>	130776.63426334575
+<s> <s> woman s reason </s>	5403280.0091870185
+<s> <s> the virgins nurse callan and nurse quigley burst through the <unk> and the ropes and mob him with open arms the virgins <unk> big ben </s>	66564.26816506463
+<s> <s> boots giving evidence </s>	12158.832073742291
+<s> <s> you see </s>	123941874.9360057
+<s> <s> you cannot drink that stuff </s>	3104904.667434198
+<s> <s> be mine </s>	29894990.53801268
+<s> <s> take no notice </s>	146555689.55186772
+<s> <s> ben howth </s>	28310315.95287318
+<s> <s> even more he liked an old german song of <unk> <unk> about the clear sea and the voices of <unk> sweet murderers of men which <unk> bloom a bit von <unk> <unk> <unk> <unk> die <unk> <unk> </s>	493130.39617054525
+<s> <s> what a pity the government did not supply our men with <unk> during the south african <unk> </s>	276080.89048524114
+<s> <s> best of best brothers </s>	1431123.4861305428
+<s> <s> old gummy granny rocking to and fro ireland s sweetheart the king of spain s daughter <unk> </s>	2811279.814801369
+<s> <s> a sigh of affection gave eloquence to these words and having <unk> the <unk> in his bosom he wiped his eye and sighed again </s>	402214.1621989009
+<s> <s> by <unk> s blessed virgins bloom s dark eyes went by </s>	141282.14393627958
+<s> <s> are we going to be read </s>	57291277.15379122
+<s> <s> the retriever barking furiously <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> </s>	3669660.3269587946
+<s> <s> tom rochford winner in <unk> s <unk> and breeches <unk> at the head of the national <unk> handicap and leaps into the void </s>	5204105.8062861
+<s> <s> eh </s>	201561007.89401603
+<s> <s> mrs marion </s>	201004856.51604122
+<s> <s> does not hear </s>	1342944467.7828028
+<s> <s> _per <unk> <unk> et <unk> <unk> est <unk> all off for a <unk> armstrong <unk> down the street </s>	11782385.215227667
+<s> <s> she <unk> suppose you got up the wrong side of the bed or came too quick with your best girl </s>	426641.9650763085
+<s> <s> he turned his angry white moustache </s>	548025.5865191522
+<s> <s> the <unk> reflection of several inverted volumes <unk> arranged and not in the order of their common letters with <unk> titles on the two <unk> opposite </s>	204153.5057288502
+<s> <s> call tomorrow </s>	331067.0586287522
+<s> <s> <unk> mirth grew in them the more and they <unk> to him his curious rite of <unk> for the <unk> and <unk> of <unk> as the priests use in <unk> island she to be in <unk> of white and saffron her <unk> in white and grain with burning of <unk> and <unk> on a <unk> while <unk> sung <unk> and the anthem <unk> <unk> <unk> <unk> <unk> <unk> till she was there <unk> </s>	2021778.313116123
+<s> <s> haines is <unk> for waking us last night </s>	517049.74215077213
+<s> <s> train with engine behind </s>	12340.55207187861
+<s> <s> he ducks and wards off a blow clumsily at your service </s>	63371.811097506805
+<s> <s> where are we going </s>	80466003.53952233
+<s> <s> perhaps only mr field is going </s>	378616.0124883306
+<s> <s> stop that and begin worse </s>	63659.07724815943
+<s> <s> no such ass </s>	67986.88028824361
+<s> <s> if he <unk> it important it will go in </s>	72856793.89955309
+<s> <s> can you work the second for yourself </s>	862248.7925480107
+<s> <s> then with the water running off him he got into an old <unk> and skirt that had belonged to his grandmother and bought a <unk> of the bulls language to study but he could never learn a word of it except the first personal <unk> which he copied out big and got off by heart and if ever he went out for a walk he filled his pockets with chalk to write it upon what took his fancy the side of a rock or a <unk> table or a <unk> of cotton or a <unk> </s>	376544.30730703374
+<s> <s> three weeks </s>	214019.56567203067
+<s> <s> s. d. <NUM> pork kidney <NUM> <NUM> copy freeman s journal <NUM> <NUM> bath and <unk> <NUM> <unk> <NUM> <NUM> in <unk> patrick dignam <NUM> <NUM> banbury cakes <NUM> <NUM> lunch <NUM> <NUM> renewal fee for book <NUM> <NUM> packet notepaper and envelopes <NUM> <NUM> dinner and <unk> <NUM> <NUM> postal order and stamp <NUM> <unk> <NUM> <NUM> pig s foot <NUM> <NUM> sheep s trotter <NUM> <NUM> cake fry s plain chocolate <NUM> <NUM> square soda bread <NUM> <NUM> coffee and bun <NUM> loan stephen dedalus <unk> <NUM> balance <NUM> <NUM> credit </s>	126520.32990998503
+<s> <s> at <unk> road corner two sanded women halted themselves an umbrella and a bag in which eleven cockles rolled to view with wonder the lord mayor and lady <unk> without his golden chain </s>	167602.74587386262
+<s> <s> he waited by the counter inhaling slowly the keen reek of drugs the dusty dry smell of <unk> and <unk> </s>	183041.7302352099
+<s> <s> god i am dying for it </s>	52685621.18806916
+<s> <s> then the heather goes on fire </s>	769913.1823806476
+<s> <s> how sad to poor gerty s ears </s>	31394.979045446227
+<s> <s> like lady ladylike </s>	94478.9204905105
+<s> <s> lynch lifts up her skirt and white petticoat with the wand </s>	903620.1084127146
+<s> <s> he flung back pages of the files and stuck his finger on a point </s>	257620.60524383208
+<s> <s> the idea mr bloom said is the house of keys </s>	10268701.396738376
+<s> <s> the old woman of prince s street was there first </s>	16189103.85017487
+<s> <s> myles crawford strides out jerkily a <unk> between his teeth </s>	1812081.073144005
+<s> <s> afraid to pass a remark on him </s>	1043190.53364481
+<s> <s> <unk> does the trick </s>	72509968.13974431
+<s> <s> they <unk> a little way in the water and stooping <unk> their bags and lifting them again <unk> out </s>	642420.0983578794
+<s> <s> three newlaid gallons a day </s>	52932.04261469031
+<s> <s> true as you are there </s>	340449925.56169516
+<s> <s> well well </s>	1083556493.7547216
+<s> <s> the <unk> police <unk> us </s>	100509.54759970712
+<s> <s> she <unk> me at his beck </s>	950185.619060622
+<s> <s> fellow always like that <unk> if women are by </s>	443352.3854538037
+<s> <s> she is right after all </s>	7727782.994104835
+<s> <s> hold him now ben dollard said </s>	7249029.118104665
+<s> <s> a polished period j. j. o molloy resumed <unk> his words he said of it _that stony <unk> in frozen music horned and terrible of the human form divine that eternal symbol of wisdom and of prophecy which if aught that the imagination or the hand of <unk> has <unk> in marble of <unk> and of <unk> deserves to live deserves to live his slim hand with a wave <unk> echo and fall </s>	195262.15334033192
+<s> <s> there all the time without you and ever shall be world without end </s>	21960375.829671863
+<s> <s> a rough laughs ay </s>	671199.8351071327
+<s> <s> what </s>	18383565.14518041
+<s> <s> have not seen you for a month of <unk> </s>	11874482.947543098
+<s> <s> the <unk> old <unk> god ever made </s>	1525826.9302579765
+<s> <s> god knows what <unk> <unk> left them off </s>	2216647.210271558
+<s> <s> debts of honour </s>	417986.64996667067
+<s> <s> a voice <unk> and sustained called to him from the sea </s>	23948429.17952055
+<s> <s> an hour ago i was passing there </s>	6988200.271682877
+<s> <s> to her </s>	240242286.5603918
+<s> <s> little monkeys common as <unk> </s>	7012408.919525764
+<s> <s> and gold flushed more </s>	40740.53846862355
+<s> <s> a chain of children s hands <unk> him the children <unk> </s>	67497.7892145333
+<s> <s> <unk> </s>	4088868.1126954276
+<s> <s> that was exceedingly naughty of you mr dedalus told her and pressed her hand <unk> </s>	431304.377144506
+<s> <s> must get that capel street library book renewed or they will write to kearney my <unk> </s>	3500195.2894432433
+<s> <s> thanks old man </s>	53129569.96245893
+<s> <s> when conmee had passed she glanced at her lovely echo in that little mirror she carries </s>	231081.13731302888
+<s> <s> member of the corporation too </s>	882172.3569884294
+<s> <s> by the way did i tear up that envelope </s>	185882.53024406117
+<s> <s> but not a pin cared ciss </s>	32801.22594673179
+<s> <s> might take an <unk> </s>	9310382.213145351
+<s> <s> kitty </s>	1440426.521614402
+<s> <s> it was held to be sufficient evidence of malice in the <unk> <unk> v. hole </s>	189926.80771913927
+<s> <s> henry all is lost now </s>	17191607.706146404
+<s> <s> to compare the various joys we each enjoy </s>	29162.150187902138
+<s> <s> there is no time to lose </s>	3257165.370398575
+<s> <s> he jerks on </s>	1484602.0628617106
+<s> <s> cissy said to excuse her would he mind please telling her what was the right time and gerty could see him taking out his watch listening to it and looking up and clearing his throat and he said he was very sorry his watch was stopped but he thought it must be after eight because the sun was set </s>	991856.3751810992
+<s> <s> petticoats for molly </s>	418002.6161973658
+<s> <s> clock whirred </s>	584174.3604407981
+<s> <s> hear hear to that says john wyse </s>	3444659.961595524
+<s> <s> i know hynes said </s>	2479962.0047633443
+<s> <s> uncle richie really </s>	267686.2977628366
+<s> <s> the doorway was darkened by an entering form </s>	22277.80637046743
+<s> <s> end of school </s>	9200899.96355609
+<s> <s> put on poor old <unk> </s>	2682709.461547507
+<s> <s> i will bet <unk> <unk> all round i shame it out of you old son </s>	494304.7648214
+<s> <s> they passed dan lowry s musichall where marie kendall charming soubrette smiled on them from a poster a dauby smile </s>	388229.260575401
+<s> <s> lank coils of seaweed hair around me my heart my soul </s>	41534.674704468605
+<s> <s> has to change or they might think it a house </s>	1392306.6770139139
+<s> <s> by them the man with my voice and my eyes and a <unk> with ashes on her breath </s>	108278.54920276697
+<s> <s> body fifty different colours </s>	146395.80994221664
+<s> <s> the <unk> thrown forward pugnosed on the <unk> <unk> as he slides past over chains and keys the <unk> hey <unk> are you doing the hat trick </s>	479286.4108196317
+<s> <s> pay your easter duty </s>	2480685.0268033314
+<s> <s> burke s </s>	2786989432.084082
+<s> <s> <unk> <unk> bed of death <unk> </s>	74943.86601665309
+<s> <s> poor idiot </s>	207868.02890370358
+<s> <s> a <unk> without joy he said a birth without <unk> a body without <unk> a belly without <unk> </s>	55874.05729369799
+<s> <s> gaily miss douce polished a tumbler trilling _o idolores queen of the eastern seas was mr lidwell in today </s>	52929.012705653695
+<s> <s> but there is one thing he will never do </s>	156004862.89586955
+<s> <s> that is the style mr dedalus said nodding to its drone </s>	1563795.1637581012
+<s> <s> machines </s>	13343988.666316897
+<s> <s> tom kernan <unk> in </s>	16308581.135816155
+<s> <s> p. c. n. you know <unk> <unk> et <unk> </s>	3079551.2015012237
+<s> <s> o do sir </s>	52146241.01648273
+<s> <s> mr bloom alone looked at the titles </s>	354933.0049150829
+<s> <s> simon think of your mother s people </s>	7018363.678156283
+<s> <s> we medical men </s>	76795.54641802373
+<s> <s> before the huge high door of the irish house of parliament a flock of pigeons flew </s>	344694.2309933007
+<s> <s> got the job in wisdom hely s year we married </s>	7055950.633023877
+<s> <s> <unk> and bloody bones </s>	65178633.7052706
+<s> <s> take him in <unk> platter face and a large apron </s>	329741.91071655607
+<s> <s> ah </s>	94486860.69830745
+<s> <s> but because loss is his gain he passes on towards eternity in <unk> personality <unk> by the wisdom he has written or by the laws he has revealed </s>	89552.87074608511
+<s> <s> a couch by <unk> attended with <unk> food <unk> <unk> swaddles as though <unk> were now done and by wise <unk> set but to this no less of what drugs there is need and surgical implements which are <unk> to her case not <unk> aspect of all very <unk> spectacles in various <unk> by our terrestrial orb offered together with images divine and human the <unk> of which by <unk> females is to tumescence <unk> or <unk> issue in the high <unk> <unk> fair home of mothers when <unk> far gone and <unk> it is come by her thereto to lie in her term up </s>	61020.29058706509
+<s> <s> everyman or <unk> </s>	163263.96451077424
+<s> <s> the three brothers shakespeare </s>	577663.5576092036
+<s> <s> at their feet its red speck died and mouldy air closed round them </s>	152264.76650829858
+<s> <s> yes </s>	26038272.495716825
+<s> <s> name and memory <unk> thee not </s>	554395.4156062364
+<s> <s> <unk> </s>	4088868.1126954276
+<s> <s> he disappears into <unk> s the porkbutcher s under the <unk> <unk> </s>	59615439.45555073
+<s> <s> return return <unk> milly forget me not o <unk> </s>	123766.44327778443
+<s> <s> that is folk he said very earnestly for your book haines </s>	117255.74435162739
+<s> <s> but do </s>	615262569.9343138
+<s> <s> monday he died </s>	14369211.97891497
+<s> <s> nevertheless he sat tight just viewing the slightly soiled photo creased by opulent curves none the worse for wear however and looked away thoughtfully with the intention of not further increasing the other s possible <unk> while gauging her symmetry of heaving <unk> </s>	32257.411764346696
+<s> <s> he went in </s>	17138160.91870216
+<s> <s> no rejoined the other i <unk> to the full the motives which <unk> your conduct and i shall discharge the office you <unk> to me <unk> by the reflection that though the <unk> be one of sorrow this proof of your confidence <unk> in some measure the bitterness of the cup </s>	161469.1096991019
+<s> <s> <unk> she listened bending in sympathy to hear </s>	247904.02816991243
+<s> <s> who are the letters for </s>	342394.2297603629
+<s> <s> <unk> <unk> </s>	7137649.260779238
+<s> <s> and at an instant the most <unk> that can <unk> a puny child of clay </s>	75979.44929833843
+<s> <s> imagine being married to a man like that </s>	28905965.449655667
+<s> <s> old bloom </s>	1433488466.116457
+<s> <s> and lo wonder of metempsychosis it is she the everlasting bride <unk> of the <unk> the bride ever virgin </s>	838870.8298291939
+<s> <s> lose your <unk> that way </s>	682968.1831615141
+<s> <s> he would </s>	181876652.0472777
+<s> <s> it would be an act of god to take a hold of a fellow the like of that and throw him in the bloody sea </s>	1445243.0783270183
+<s> <s> the <unk> of some kind was <unk> than the other part </s>	38746773.825624056
+<s> <s> reading lying back now counting the <unk> of her hair smiling <unk> </s>	331365.982323609
+<s> <s> a dream of <unk> hose </s>	32803.01938223673
+<s> <s> blue fluid again flows over her flesh </s>	54397.38368155971
+<s> <s> nature </s>	3501323.7029809514
+<s> <s> diaphane adiaphane </s>	11861.892385350926
+<s> <s> easily flew </s>	1326047.0810072918
+<s> <s> his real name was childs </s>	4365652.242323433
+<s> <s> six </s>	915170563.5562897
+<s> <s> you had enough </s>	1174373.4381491581
+<s> <s> trousers </s>	6468258861.5278225
+<s> <s> just a few </s>	1415971859.1303895
+<s> <s> and molly was laughing because <unk> and maggot o reilly were <unk> a cock as we passed a <unk> and <unk> <unk> moses the tea merchant drove past us in a <unk> with his daughter <unk> moses was her name and the <unk> in her lap <unk> up and you asked me if i ever heard or read or knew or came across </s>	498589.0856322433
+<s> <s> nice soft tweed ned lambert has in that suit </s>	32164.165162962894
+<s> <s> you like it </s>	47794572.52751279
+<s> <s> mr dedalus tugging a long moustache came round from <unk> s row </s>	94187.3748059236
+<s> <s> but in the end she put a few violets in her bonnet </s>	296143.72807465424
+<s> <s> he liked to read at stool </s>	195437.8034231533
+<s> <s> on the duke s lawn <unk> by an english visitor she declined to permit him to make and take away her <unk> image <unk> not stated </s>	136559.87287699452
+<s> <s> and would a jury give me five shillings <unk> tomorrow eh </s>	68318.46160831128
+<s> <s> and it need not <unk> from the other by one <unk> as being his own master he would have <unk> of time to <unk> literature in his spare moments when <unk> of so doing without its <unk> with his vocal career or containing anything <unk> whatsoever as it was a matter for himself alone </s>	234583.7059801877
+<s> <s> she was crying in her wretched bed </s>	89110.89989184139
+<s> <s> madden lenehan said </s>	2673006.090545866
+<s> <s> still running says he </s>	349492.6999572158
+<s> <s> dillon s lacquey rings his handbell the lacquey barang </s>	12710.9181829691
+<s> <s> the <unk> pallor of her face was almost spiritual in its <unk> <unk> though her <unk> mouth was a genuine <unk> s bow <unk> perfect </s>	235101.33387647814
+<s> <s> did not hear </s>	489064095.5245393
+<s> <s> he <unk> </s>	33115855.465767723
+<s> <s> look at that now she said </s>	2942792.9184662052
+<s> <s> he was their <unk> his reign was mild </s>	56808.42485928019
+<s> <s> <unk> </s>	4088868.1126954276
+<s> <s> is that so </s>	243556402.23114023
+<s> <s> green rag to a bull </s>	766704.008478472
+<s> <s> then the spring the summer smells </s>	144913.45035956166
+<s> <s> and bring us some scones and butter and some cakes as well </s>	178657.60661868018
+<s> <s> after getting better asleep with molly </s>	315110.9565363801
+<s> <s> you have that something within the higher self </s>	76700.58393132231
+<s> <s> since easter he had cursed three times </s>	52895.79582170057
+<s> <s> she set the <unk> jingling as she raised herself briskly an elbow on the pillow </s>	585428.8999143782
+<s> <s> they looked </s>	112703.25487480439
+<s> <s> what quality did it his hand possess but with what <unk> influence </s>	181723.12341709263
+<s> <s> lover for her love he <unk> with colonel richard burke <unk> of his <unk> under the walls of <unk> and crouching saw a flame of vengeance <unk> them upward in the fog </s>	188516.52374343702
+<s> <s> then feel all like one family party same in the theatre all in the same swim </s>	159885.09591098438
+<s> <s> the nymph softly mortal </s>	241339.35612147642
+<s> <s> tip </s>	2652761825.8464284
+<s> <s> neck or nothing </s>	418010.59731600137
+<s> <s> for being so nice eh </s>	44256.48070132402
+<s> <s> the <unk> hit mr bloom in the small of the back as the door was pushed in </s>	4727634.767270421
+<s> <s> depends on where </s>	14371407.592903588
+<s> <s> and one day she with </s>	203605.49625162195
+<s> <s> stephen prone breathes to the stars </s>	181119.36198586167
+<s> <s> i am a respectable married man without a stain on my character </s>	1827114.3151271609
+<s> <s> most <unk> sorry </s>	137301.05328718058
+<s> <s> big place </s>	278919.3000760824
+<s> <s> a scheme for the <unk> of <unk> and goods <unk> over irish <unk> when freed from <unk> </s>	1227749.2589201622
+<s> <s> hold my stick </s>	4943624.358086616
+<s> <s> john henry menton filling the doorway of commercial <unk> stared from <unk> oyster eyes holding a fat gold hunter watch not looked at in his fat left hand not feeling it </s>	49280.62319588755
+<s> <s> how walter <unk> lost his voice </s>	268492.61185736983
+<s> <s> like me like <unk> coming down to our mighty mother </s>	299176.7461659504
+<s> <s> following the pointing of her finger he took up a leg of her soiled drawers from the bed </s>	151056.3037673097
+<s> <s> well glad to see you looking fit he said </s>	640619.3592733967
+<s> <s> swindle in it somewhere </s>	12333.005375036273
+<s> <s> my missus has just got an </s>	715534793.6788402
+<s> <s> i am a servant of two masters stephen said an english and an italian </s>	55811.21872748893
+<s> <s> he stretched more more </s>	34014.14326039348
+<s> <s> still captain <unk> broke a window in the kildare street club with a <unk> to square leg </s>	475436.5594335005
+<s> <s> miss gaze of kennedy heard not seen read on </s>	125837.89735639196
+<s> <s> i polish the sky </s>	434520.75301442423
+<s> <s> <unk> hall </s>	7469115.933187564
+<s> <s> be worse for him says he nor any <unk> </s>	383354.78702857567
+<s> <s> all for a woman home and houses <unk> silver rich fruits spicy from jaffa </s>	198261.49611029628
+<s> <s> a girl playing one of those instruments what do you call them <unk> </s>	2616002.8462411393
+<s> <s> the right honourable <unk> <unk> chatterton </s>	704503.5198882669
+<s> <s> this <unk> is that </s>	69433758.99712336
+<s> <s> she does whack it by george </s>	234968.678693093
+<s> <s> not <unk> of course </s>	1005305425.3187244
+<s> <s> touch me not </s>	193102801.756832
+<s> <s> tap </s>	54091280.13999509
+<s> <s> day i caught her in the street pinching her cheeks to make them red </s>	651700.7758146654
+<s> <s> <unk> </s>	4088868.1126954276
+<s> <s> mr magee sir there is a gentleman to see you </s>	4592215.119285242
+<s> <s> <unk> stephen prayed </s>	782816.7130542571
+<s> <s> pwee little wee </s>	9203185.079867397
+<s> <s> glorious tone he has still </s>	10936978.623984946
+<s> <s> the first fellow that picked an <unk> to cure himself had a bit of pluck </s>	877846.1139169249
+<s> <s> from infancy to maturity he had <unk> his maternal <unk> </s>	66357.14140170165
+<s> <s> or gas about our lovely land </s>	39884.11320157814
+<s> <s> no peter claver i am thinking of </s>	139804.16675121605
+<s> <s> i was </s>	59501473.153660014
+<s> <s> the <unk> imperturbability of the department of <unk> </s>	118182.40213993954
+<s> <s> molly did laugh when he went out </s>	5757027.426544586
+<s> <s> added to which was the coincidence of meeting discussion dance row old salt of the here today and gone tomorrow type night loafers the whole <unk> of events all went to make up a <unk> cameo of the world we live in especially as the lives of the <unk> <unk> viz </s>	453040.6766909963
+<s> <s> the chapel of freeman <unk> hear </s>	25938.97479864629
+<s> <s> bloom explains to those near him his schemes for social <unk> </s>	21821.429661143302
+<s> <s> if you give me a hand a second sergeant </s>	265402.8058868384
+<s> <s> callan coleman dignam patrick </s>	209098.5556745931
+<s> <s> who is that beside them </s>	11819357.54489704
+<s> <s> edy boardman <unk> crouched with bertha supple draws her shawl across her nostrils edy boardman <unk> and says the one i seen you up faithful place with your <unk> the <unk> off the railway in his <unk> hat </s>	618896.8391912438
+<s> <s> but he has to say something </s>	28867861.582518965
+<s> <s> had only one skin </s>	74630.01532265374
+<s> <s> the exotic you see </s>	237117.5712439611
+<s> <s> i suggested to him about a transparent <unk> with two smart girls sitting inside writing letters <unk> envelopes blottingpaper </s>	123630.49866830868
+<s> <s> postoffice lower down </s>	267686.29776283616
+<s> <s> <unk> of the <unk> for tanneries soap <unk> </s>	837228.5614303479
+<s> <s> cunty kate indeed yes </s>	1736691.6058508188
+<s> <s> he stops sneezes <unk> </s>	403521.6691794569
+<s> <s> his collar too sprang up </s>	412917.4592970671
+<s> <s> or it is the same figure a year or so gone over in his first hard hat ah that was a day already on the road a <unk> traveller for the family firm equipped with an <unk> a scented handkerchief not for show only his case of bright <unk> alas </s>	128328.77412247722
+<s> <s> who tore it </s>	79579.52304349831
+<s> <s> will lift your glass with us </s>	2493518.021570958
+<s> <s> that a man s soul after he dies </s>	293044.3721146048
+<s> <s> he leaned back and went on again having just remembered </s>	3467656.3510771845
+<s> <s> a cloud began to cover the sun slowly wholly <unk> the bay in <unk> green </s>	47257502.86968801
+<s> <s> after <unk> about in the fog they found the grave sure enough </s>	63025.10693182564
+<s> <s> a sofa upholstered in <unk> plush had been <unk> from opposite the door to the <unk> near the <unk> <unk> union jack an alteration which he had frequently intended to <unk> the blue and white <unk> <unk> <unk> table had been placed opposite the door in the place <unk> by the <unk> plush sofa the <unk> sideboard a <unk> angle of which had <unk> arrested his ingress had been moved from its position beside the door to a more <unk> but more <unk> position in front of the door two chairs had been moved from right and left of the <unk> to the position originally occupied by the blue and white <unk> <unk> <unk> table </s>	862830.8053946447
+<s> <s> so the citizen takes up one of his <unk> papers and he starts reading out a delegation of the chief cotton magnates of <unk> was presented yesterday to his majesty the <unk> of <unk> by gold stick in waiting lord <unk> of <unk> on eggs to tender to his majesty the <unk> thanks of british traders for the <unk> <unk> them in his <unk> </s>	1075054.9780289128
+<s> <s> he may suffer their memory to grow dim let them be as though they had not been and all but <unk> himself that they were not or at least were otherwise </s>	117233.8375204459
+<s> <s> what is that </s>	39992665.11065142
+<s> <s> jingling <unk> </s>	584144.6162361547
+<s> <s> <unk> </s>	4088868.1126954276
+<s> <s> deaths </s>	11289.591248374523
+<s> <s> where </s>	64518903.43962923
+<s> <s> that man is leopold m intosh the notorious <unk> </s>	84695.09798801242
+<s> <s> ay says i. how are the mighty fallen </s>	12358566.454755446
+<s> <s> while the postmistress searched a <unk> he gazed at the <unk> poster with soldiers of all arms on parade and held the tip of his baton against his nostrils smelling <unk> rag paper </s>	62730.887746473454
+<s> <s> it seemed to father conmee a pity that they should all be lost a waste if one might say </s>	1620873.3822489467
+<s> <s> iron nails ran in </s>	12069997887.749954
+<s> <s> he <unk> cheerfully london s burning london s burning </s>	164399.9895670892
+<s> <s> i never told her </s>	276310.17218057165
+<s> <s> was that not mrs m guinness </s>	1754250.9777551787
+<s> <s> he is a cross between <unk> and <unk> </s>	2722865.890419064
+<s> <s> oblige him if possible </s>	12339.421075595132
+<s> <s> i said the <unk> </s>	1788406.8930956759
+<s> <s> well if the father who has not a son be not a father can the son who has not a father be a son </s>	456157.0809607621
+<s> <s> read <unk> and <unk> even <unk> <unk> </s>	48071359.79064974
+<s> <s> <unk> a <unk> out of that bloody curse to you </s>	18564487.31996926
+<s> <s> he should have read that before lunch </s>	817424.1163077711
+<s> <s> trams passed one another <unk> <unk> <unk> </s>	2116612.7839805866
+<s> <s> ought to <unk> to my appearance my age </s>	7214291.79087897
+<s> <s> <unk> </s>	4088868.1126954276
+<s> <s> <NUM> years are passed in sleep </s>	1849504.279967846
+<s> <s> occasionally he removed from his lips the traces of food by means of a lacerated envelope or other <unk> fragment of paper </s>	318564.026246059
+<s> <s> he said </s>	14250514.256301662
+<s> <s> <unk> hot day coming </s>	34814.54662168407
+<s> <s> if you do tremble in anticipation of heel discipline to be inflicted in <unk> costume </s>	385145.1101097235
+<s> <s> <unk> good masters said the host my poor house has but a bare larder </s>	46584.44459829301
+<s> <s> buzz </s>	15772832589.73537
+<s> <s> he halted near his daughter </s>	1852522.0639982251
+<s> <s> why for the observer <unk> in addition to vigour corporal proportion and commercial ability </s>	46345.891146704314
+<s> <s> there or the armpits or under the neck </s>	135611.5010219376
+<s> <s> i think i will trouble you for some fresh water and a half glass of whisky </s>	1344963.2579819544
+<s> <s> mud head to foot </s>	12339.421117346743
+<s> <s> see the wheeze </s>	59582303.960992835
+<s> <s> must be damned unpleasant </s>	371613.5757069993
+<s> <s> a few broken biscuits were all the result of his <unk> </s>	553169.5048796623
+<s> <s> <unk> adam rode and not <unk> </s>	139795.56720909287
+<s> <s> says joe </s>	46128781.82455192
+<s> <s> it was a peaceful day </s>	605742.1474322085
+<s> <s> on the other hand it was altogether far and away too late for the sandymount or sandycove suggestion so that he was in some <unk> as to which of the two <unk> </s>	11497338.742264334
+<s> <s> you find my words dark </s>	37385.75878909338
+<s> <s> the nymph with wide fingers o infamy </s>	379685.74908740906
+<s> <s> say out big big </s>	80011.35536810751
+<s> <s> who will we do it on </s>	6677434.230157194
+<s> <s> the christ with the <unk> moisture of light born of an <unk> virgin <unk> <unk> departed to the <unk> of <unk> </s>	278716.7086471018
+<s> <s> through <unk> our lord amen </s>	709830.7918553373
+<s> <s> touched his sense <unk> remembered </s>	131766.36963791965
+<s> <s> he wants that key </s>	281794.84876281105
+<s> <s> the women s heads <unk> </s>	25521786.78572191
+<s> <s> prolonged applause </s>	16572190909.38294
+<s> <s> you look like a fellow that had lost a bob and found a tanner </s>	1677296.5369071579
+<s> <s> i noticed he was in mourning </s>	1243187452.0325923
+<s> <s> my dear son </s>	40297443.10752602
+<s> <s> tea </s>	1210221286.7991374
+<s> <s> o ever so gently pet </s>	418788.2438359451
+<s> <s> excellent for shade fuel and construction </s>	73447.86515538105
+<s> <s> do you understand now </s>	3396109.7239178843
+<s> <s> torn strip of envelope </s>	209104.94362590535
+<s> <s> he looked about him round his loud <unk> machines </s>	53417.18288336092
+<s> <s> lady s hand </s>	103452229.1833941
+<s> <s> not on my own you know </s>	64694421.64343768
+<s> <s> darling </s>	13343988.666316897
+<s> <s> where is that </s>	99887279.79938148
+<s> <s> coincidence i just happened to be in the kildare street museum today shortly prior to our meeting if i can so call it and i was just looking at those antique statues there </s>	823292.5623832213
+<s> <s> four for sixpence </s>	140376.95198993722
+<s> <s> doctor diet and doctor quiet </s>	87459.5851232044
+<s> <s> corny kelleher on the <unk> sways his head to and fro in sign of mirth at bloom s <unk> </s>	2860584.7707063663
+<s> <s> but the greek </s>	14885311.164027222
+<s> <s> it is said of him that none could tell if he were <unk> against others or against himself </s>	227796.32216263833
+<s> <s> told her what spinoza says in that book of poor papa s. </s>	335044.90318789106
+<s> <s> wash and <unk> </s>	100851971.93379955
+<s> <s> wait before a door sometime it will open </s>	31794.6806367407
+<s> <s> we two </s>	8545259.417216139
+<s> <s> see them sitting there stark <unk> eating a dead horse s liver raw </s>	64022.07114131424
+<s> <s> they cheer bloom <unk> <unk> <unk> <unk> with spent <unk> <unk> to rise again </s>	764108.7031612253
+<s> <s> i asked that old fogey in boyd s for something for my skin </s>	42905.47391346526
+<s> <s> not as bad as it sounds </s>	7436685.822089514
+<s> <s> i know the voice </s>	208989.70088822622
+<s> <s> the honourable mrs mervyn talboys very much so </s>	10193447.891801376
+<s> <s> her grave is over there jack mr dedalus said </s>	159124.97046944426
+<s> <s> bloom <unk> university of life </s>	792963.7628101021
+<s> <s> old goodwin s tall hat done up with some sticky stuff </s>	84965.86941309404
+<s> <s> all the <unk> her husband gave her were spent in the stores on wondrous <unk> and <unk> frillies </s>	274496.9433841405
+<s> <s> interesting </s>	3901465.907026416
+<s> <s> he staggers a pace back bloom <unk> him <unk> your own </s>	535744.1987308242
+<s> <s> bushe </s>	13343988.666316897
+<s> <s> you are a tribe of <unk> <unk> we are a mighty people </s>	2747449.1614929726
+<s> <s> i want to see the citizen </s>	28393099.771159526
+<s> <s> he walked there reading in the evening and heard the cries of the boys lines at their play young cries in the quiet evening </s>	194958.94988097993
+<s> <s> say you never see them with three colours </s>	172367.62304527572
+<s> <s> tired seemingly he ceased </s>	3543348.854998752
+<s> <s> suppose i when i was </s>	19117636.009535126
+<s> <s> i am sitting anyhow nosey flynn answered </s>	2152272.563383246
+<s> <s> jingle a tinkle jaunted </s>	87352.96700055493
+<s> <s> that <unk> m coy stopping me to say nothing </s>	2816034.725355873
+<s> <s> well done thou good and faithful servant </s>	33243.92166563906
+<s> <s> they sinned against the light mr deasy said gravely </s>	4385133.277131859
+<s> <s> a lot of <unk> <unk> in <unk> hats and they firing at a <unk> <unk> up in a tree with his tongue out and a <unk> under him </s>	4471804.795300494
+<s> <s> a <unk> </s>	15353455.881055769
+<s> <s> he hurries out through the hall </s>	668081.9483887744
+<s> <s> bloom looked at the head of a horse not worth anything like sixtyfive guineas suddenly in evidence in the dark quite near so that it seemed new a different <unk> of bones and even flesh because palpably it was a <unk> a <unk> a <unk> a <unk> a <unk> putting his hind foot <unk> the while the lord of his creation sat on the perch busy with his thoughts </s>	384228.0678470997
+<s> <s> <unk> <unk> più dice <unk> <unk> <unk> <unk> </s>	1960372.050254712
+<s> <s> stephen <unk> <unk> to _la belle dame <unk> <unk> georgina johnson _ad <unk> qui <unk> <unk> <unk> stephen thrusts the ashplant on him and slowly holds out his hands his head going back till both hands are a span from his breast down turned in <unk> <unk> the fingers about to part the left being higher lynch which is the jug of bread </s>	169073.67215876823
+<s> <s> you cannot </s>	6585962.313927375
+<s> <s> love says bloom </s>	1281021.9377550022
+<s> <s> house of keys do not you see </s>	28218304.16957862
+<s> <s> please tell me what you think of poor me </s>	3588165.707914434
+<s> <s> it is a patent <unk> on the face of it to hate people because they live round the corner and speak another <unk> in the next house so to speak </s>	2000956.6293615866
+<s> <s> the image of a solitary <unk> <unk> <unk> man </s>	21812267.05734613
+<s> <s> he does not see us mr power said </s>	29126407.03597823
+<s> <s> his look went from <unk> s beard to <unk> s skull to remind to <unk> them not <unk> then to the <unk> <unk> <unk> <unk> though <unk> </s>	251462.0219954972
+<s> <s> text open thy mouth and put thy foot in it </s>	113247.77875637678
+<s> <s> what spectacle <unk> them when they first the host then the guest emerged silently doubly dark from obscurity by a passage from the rere of the house into the <unk> of the garden </s>	223239.2953189425
+<s> <s> he looks up </s>	640995.4601777507
+<s> <s> let me stir it </s>	414279.6514573346
+<s> <s> he <unk> don giovanni a <unk> <unk> </s>	2423367.855461068
+<s> <s> what are the wild waves saying </s>	1039763.306895845
+<s> <s> his articles on shakespeare in the <unk> <unk> were surely brilliant </s>	193550.34770178233
+<s> <s> and your lord and master </s>	3768635.957744481
+<s> <s> and she can do the other </s>	3074341.345710823
+<s> <s> east of the sun west of the moon <unk> na <unk> </s>	72484.97173096344
+<s> <s> i conceive you says mr dixon </s>	8265062.110114442
+<s> <s> in his buttonhole is an immense <unk> </s>	4326836.257620982
+<s> <s> bloom produces from his <unk> a crumpled yellow flower this is the flower in question </s>	408966.79938204715
+<s> <s> a sovereign fell bright and new on the soft pile of the <unk> </s>	144391.8770423027
+<s> <s> desire to <unk> people </s>	208819.95577627036
+<s> <s> the <unk> father hereupon tore open his grey or unclean anyhow shirt with his two hands and scratched away at his chest on which was to be seen an image <unk> in blue chinese ink intended to represent an anchor </s>	150256.74881479863
+<s> <s> _sweets of sin he said tapping on it </s>	40164.968132001
+<s> <s> but it was no animal s fault in particular if he was built that way like the camel ship of the <unk> <unk> grapes into <unk> in his <unk> </s>	411688.65122663503
+<s> <s> we see the canvasser at work mr bloom laid his cutting on mr nannetti s desk </s>	45615.48179043102
+<s> <s> the <unk> of a <unk> of the length of <NUM> <NUM> inches in the right side of his guest s jacket </s>	8700130.503639946
+<s> <s> the <unk> approach with imperial eagles hoisted trailing <unk> and waving oriental palms the <unk> papal standard rises high surrounded by <unk> of the civic flag </s>	66430.34337399139
+<s> <s> are you staying the night or a short time </s>	4117367.751575212
+<s> <s> or no there was a midnight burial in glasnevin </s>	4784904.094558775
+<s> <s> he would have <unk> from the feast had not the noise of voices allayed the smart </s>	378491.72570203565
+<s> <s> down stage he strode some paces grave tall in <unk> his long arms <unk> </s>	375477.2798583683
+<s> <s> miss douce of satin <unk> her arm away </s>	96924.10502034138
+<s> <s> father conmee was very glad to see the wife of mr david sheehy m.p. <unk> so well and he begged to be remembered to mr david sheehy m.p. yes he would certainly call </s>	5392478.727173106
+<s> <s> his eyes <unk> saw shelves of <unk> sardines gaudy <unk> claws </s>	140939.72425151782
+<s> <s> <unk> beauty </s>	66813.50234593799
+<s> <s> what moved <unk> above the listener s and the narrator s invisible thoughts </s>	132411.82837259755
+<s> <s> he carries a large portfolio <unk> matcham s <unk> beaufoy <unk> no you are not </s>	192948.37786914536
+<s> <s> queen of angels queen of <unk> queen of <unk> of all saints they prayed queen of the most holy rosary and then father conroy handed the <unk> to canon o hanlon and he put in the incense and censed the blessed sacrament and cissy caffrey caught the two twins and she was itching to give them a ringing good clip on the ear but she did not because she thought he might be watching but she never made a bigger mistake in all her life because gerty could see without looking that he never took his eyes off of her and then canon o hanlon handed the <unk> back to father conroy and knelt down looking up at the blessed sacrament and the choir began to sing the <unk> <unk> and she just swung her foot in and out in time as the music rose and fell to the <unk> <unk> <unk> <unk> </s>	1373222.9519286768
+<s> <s> jenny <unk> soup stock sage raw eggs half pint of cream </s>	12774.547030249425
+<s> <s> hello flynn </s>	226199.26181469482
+<s> <s> that is how the russians prays </s>	3850247.2408372597
+<s> <s> the tip of his little finger blotted out the sun s disk </s>	431286.63203637005
+<s> <s> <unk> <unk> <NUM> minims <unk> </s>	282978879.05952805
+<s> <s> his <unk> heart <unk> at once </s>	520676.16073886055
+<s> <s> she holds a scottish widow s insurance policy and a large <unk> umbrella under which her brood run with her patsy hopping on one shod foot his collar loose a <unk> of porksteaks dangling freddy <unk> susy with a crying cod s mouth alice struggling with the baby </s>	85987.41933532056
+<s> <s> i often told poor paddy he ought to mind that job </s>	346388.3515152568
+<s> <s> poor dear papa a widower was a regular <unk> from it </s>	276071.17060484824
+<s> <s> <unk> too </s>	72403743.03068052
+<s> <s> stephen answered himself </s>	70431.15532240599
+<s> <s> the <unk> of the city is presented to him <unk> in a <unk> </s>	12906688.227254422
+<s> <s> she poured again a <unk> and a <unk> </s>	4973564.884347015
+<s> <s> her shapely <unk> <unk> by the blood of squashed lice from the children s shirts </s>	136953.53526959725
+<s> <s> devil a sweet fear </s>	1809630.5740596864
+<s> <s> crocodile tears </s>	11861.892385350926
+<s> <s> you are a witness </s>	30440755.514480773
+<s> <s> coincidence </s>	2652761825.8464284
+<s> <s> backbone in front so to say </s>	58609.64066239975
+<s> <s> or we are surprised they have any brains </s>	31120.503735833736
+<s> <s> zoe thursday s child has far to go </s>	102311.50103549
+<s> <s> to daniel <unk> and francis <unk> in <NUM> during a juvenile friendship <unk> by the premature <unk> of the former he had <unk> during nocturnal perambulations the political theory of <unk> e.g. <unk> <unk> and the <unk> <unk> of charles <unk> <unk> in _the <unk> of man_ and _the origin of <unk> </s>	405657.64403994556
+<s> <s> shapely too </s>	731943.2489513485
+<s> <s> who ate them </s>	2736034.937480294
+<s> <s> mr dedalus nodded looking out </s>	18112410.67530566
+<s> <s> in what ultimate ambition had all <unk> and consecutive <unk> now <unk> </s>	324193.52003662445
+<s> <s> o well she knows how to mind herself </s>	2273764.9931388265
+<s> <s> you will be home the night </s>	16923787.33482415
+<s> <s> <unk> reply winding <unk> of welcome </s>	26215.604983150344
+<s> <s> they ought to have some law to pierce the heart and make sure or an electric clock or a telephone in the coffin and some kind of a canvas <unk> </s>	318446.32134231314
+<s> <s> of course it is all paradox do not you know hughes and <unk> and <unk> the colour but it is so <unk> the way he works it out </s>	1224651.7434878498
+<s> <s> it is a toss up i think </s>	738373.8151280013
+<s> <s> come along the professor cried waving his arm </s>	1777646.9162003708
+<s> <s> a ghoststory </s>	82845.07849737791
+<s> <s> mr bloom s sharp ears heard him then <unk> the plug probably which it was so that he must have lodged it for the time being in his fist while he did the drinking and making water jobs and found it a bit sour after the liquid fire in question </s>	709987.2871924306
+<s> <s> then getting it ready </s>	52559.253791113806
+<s> <s> street of <unk> </s>	2135498766.5853138
+<s> <s> gob he had his mouth half way down the tumbler already </s>	1741787.4243099005
+<s> <s> ho <unk> </s>	4499992767.609337
+<s> <s> she <unk> <unk> wept </s>	3663207.5965117062
+<s> <s> he took out his handkerchief to dab his nose </s>	23534638.75838565
+<s> <s> <unk> hands </s>	7467784.507667199
+<s> <s> i am not </s>	49097257.73336424
+<s> <s> perhaps it should be added that the effect is greatly increased if owen s verse be spoken somewhat slowly and <unk> in a tone suggestive of suppressed <unk> </s>	217854.1959684939
+<s> <s> moses <unk> </s>	731943.2489513485
+<s> <s> what <unk> might be subsequently <unk> </s>	108741.32255114471
+<s> <s> in what state of rest or motion </s>	110104.91201922281
+<s> <s> to tell the truth he was mean in fortunes and for the most part <unk> about the <unk> and low <unk> with <unk> <unk> bookies paul s men runners <unk> <unk> ladies of the <unk> and other <unk> of the game or with a <unk> <unk> or a <unk> often at nights till broad day of whom he picked up between his <unk> much loose <unk> </s>	222990.61533082105
+<s> <s> light in his eyes </s>	5751056.278971016
+<s> <s> zoe <unk> what the eye cannot see the heart cannot <unk> for </s>	424850.8411236854
+<s> <s> in their <unk> with moll the <unk> to find the buck <unk> in her breeches they will <unk> the little statue you carried home in the rain for art for art s sake </s>	907880.5265780985
+<s> <s> the <unk> of dunsink registered in all eleven <unk> all of the fifth grade of <unk> s <unk> and there is no record <unk> of a similar seismic <unk> in our island since the earthquake of <NUM> the year of the <unk> of silken thomas </s>	513696.4032046313
+<s> <s> <unk> hair there too </s>	6997208.063083696
+<s> <s> he is gone from us </s>	38995595.75969018
+<s> <s> more dead for her than for me </s>	135363.066655197
+<s> <s> may be for months and may be for never </s>	34910.59162088092
+<s> <s> tap </s>	54091280.13999509
+<s> <s> be <unk> for once </s>	14030592.078277124
+<s> <s> still he would have to get someone to <unk> him after he died though he could dig his own grave </s>	998134.9109452824
+<s> <s> he saw not gold </s>	4466680.441200219
+<s> <s> first <unk> </s>	12379788.16780411
+<s> <s> we obey them in the grave </s>	5028395.074592542
+<s> <s> good job milly never got it </s>	230151.16025100832
+<s> <s> red murray s long shears <unk> out the advertisement from the newspaper in four clean <unk> </s>	555511.8096401374
+<s> <s> sweet ann i take it was hot in the blood </s>	319848.3065043287
+<s> <s> you were going to do wonders what </s>	8501638.626461336
+<s> <s> and there were vessels that are <unk> by magic of <unk> out of <unk> and the air by a <unk> with his breath that he <unk> in to them like to <unk> </s>	1914747.691732215
+<s> <s> paddy leonard cried </s>	1652010.6535626047
+<s> <s> <unk> <unk> </s>	7137649.260779238
+<s> <s> useless to go back </s>	519417432.03767
+<s> <s> cried the last speaker </s>	1169268.3724573536
+<s> <s> at <NUM> a.m. you will be in heaven and ireland will be free </s>	316140.39157988015
+<s> <s> that is how poets write the similar sounds </s>	226031.2265219617
+<s> <s> ben dollard s vague bass answered turning an instant from father cowley s woe </s>	92287.60093501788
+<s> <s> the air without is <unk> with <unk> moisture life essence celestial glistening on dublin stone there under <unk> <unk> god s air the <unk> s air <unk> <unk> <unk> air </s>	282302.0188321584
+<s> <s> part for the whole </s>	127384.67343398427
+<s> <s> mr bloom touched her <unk> gently warning her mind </s>	219509.03572735412
+<s> <s> <unk> their voices </s>	1527054.3746977085
+<s> <s> <unk> said he <unk> ll sing no more lovesongs he did faith sir tom </s>	700514.5178917972
+<s> <s> ireland says bloom </s>	1708439.0993771479
+<s> <s> <unk> <unk> prove too <unk> for <unk> <unk> </s>	4996369.961290281
+<s> <s> seven days in jail ben dollard said on bread and water </s>	863478.0547225829
+<s> <s> from the _freeman he wants to see the files of the _kilkenny people_ for last year </s>	626978.7626797971
+<s> <s> byby till next time </s>	1266973.525615386
+<s> <s> silence all round marked the <unk> of his <unk> </s>	4489678.304171478
+<s> <s> lord </s>	1387848847.3543513
+<s> <s> lily of the <unk> </s>	3403852.003489284
+<s> <s> <unk> that was </s>	90995583.92661722
+<s> <s> did he remain </s>	1062077.6926180574
+<s> <s> of course gambling <unk> lent itself to that sort of thing though as the event turned out the poor fool had not much reason to <unk> himself on his pick the forlorn hope </s>	87550.30248245463
+<s> <s> lenehan cried running to the window </s>	8985476.521921033
+<s> <s> stopped again </s>	543488.0634098738
+<s> <s> ay says i. a bit off the top </s>	1725226.9731817439
+<s> <s> birth every year almost </s>	209101.74938191992
+<s> <s> in long shaky <unk> sargent copied the data </s>	131949.95594758508
+<s> <s> <unk> </s>	4088868.1126954276
+<s> <s> just c. p. m coy will do </s>	3659058.565145957
+<s> <s> we are means to those small creatures within us and nature has other ends than we </s>	33329.83717471357
+<s> <s> he held <unk> his _freeman cannot see now </s>	254194.84494433695
+<s> <s> no <unk> it up </s>	26601745.853614528
+<s> <s> we are the fat </s>	746218509.3911254
+<s> <s> he is a wellknown cuckold </s>	3535169.7355200252
+<s> <s> general laughter george <unk> clerk of the crown and peace <unk> order in court </s>	1801204.7591824972
+<s> <s> we are on the right lay bob believe you me </s>	5379273.868633315
+<s> <s> you are walking through it <unk> </s>	475626.14868057694
+<s> <s> he says this a <unk> of morals a very <unk> in his <unk> who did not <unk> <unk> of the ties of nature to attempt illicit intercourse with a female domestic drawn from the lowest <unk> of society </s>	2643818.020623149
+<s> <s> make a <unk> here </s>	60733557.126086876
+<s> <s> i plunged a bit said boylan winking and drinking </s>	21894.48407489237
+<s> <s> florry with a glass of water enters where is he </s>	1748793.5861751458
+<s> <s> and then he added with rather <unk> humour considering his alleged end as bad as old antonio for he left me on my <unk> </s>	3932989.056226926
+<s> <s> mr dedalus said </s>	44273073.10484179
+<s> <s> where was that ad some <unk> firm the luminous <unk> </s>	207128.9324576205
+<s> <s> she could almost see the swift answering flash of admiration in his eyes that set her tingling in every nerve </s>	195901.76191240284
+<s> <s> all watched awhile through their windows caps and hats lifted by passers </s>	22123.07320843147
+<s> <s> you must read them in the original </s>	8162945.933724736
+<s> <s> no drinks served before mass </s>	39264.15892036836
+<s> <s> something about withering plants i read in a garden </s>	1837364.5033329735
+<s> <s> smell of <unk> beefsteaks to the starving </s>	1857197.749954537
+<s> <s> there is a touch of the artist about old bloom </s>	992299.0637277229
+<s> <s> he is the grandest thing yet and do not you forget it </s>	6964868.615430566
+<s> <s> ay corny kelleher said </s>	9908573.57545479
+<s> <s> no </s>	23985540.22287698
+<s> <s> o god i have a pain laughing </s>	2697608.8305623694
+<s> <s> one hope </s>	164710.80508216814
+<s> <s> a <unk> wife first brought the strangers to our shore here <unk> s wife and her <unk> o rourke prince of <unk> </s>	1009010.1440475669
+<s> <s> i was in china and north america and south america </s>	105175.28498408043
+<s> <s> bloom good night </s>	2083970.7131698683
+<s> <s> there is nothing smutty in it </s>	2090389.2579850955
+<s> <s> mangy <unk> brute sniffing and <unk> all round the place and scratching his <unk> </s>	1869197.569641233
+<s> <s> well they are still waiting for their redeemer says martin </s>	2717021.777759117
+<s> <s> <unk> </s>	4088868.1126954276
+<s> <s> stuck on the pane two flies <unk> stuck </s>	46293.94952121558
+<s> <s> the sailor grimaced chewing in a way that might be read as yes ay or no </s>	636116.8434342159
+<s> <s> lying out on the strand all day </s>	6257862.364060376
+<s> <s> the foreman moved his pencil towards it </s>	3530040.761546648
+<s> <s> did either openly <unk> to their <unk> difference </s>	388936.4165475788
+<s> <s> troy measure </s>	11861.892385350926
+<s> <s> let him stay stephen said </s>	1201247.4039025027
+<s> <s> changing about </s>	731943.2489513485
+<s> <s> probably lost cattle </s>	180488.18247499215
+<s> <s> blushing his <unk> said mr dedalus your views are most <unk> </s>	41482.65528520324
+<s> <s> what is wrong now </s>	2438763.3765680827
+<s> <s> pretty poll </s>	584144.6162361547
+<s> <s> gave her that song <unk> that blow from the <unk> </s>	2125437.0538958125
+<s> <s> reformed prostitute will address the meeting </s>	94749.31361939185
+<s> <s> anyhow says joe field and nannetti are going over tonight to london to ask about it on the floor of the house of commons </s>	504262.46262422984
+<s> <s> rhymes and reasons mouth south </s>	131771.40224656506
+<s> <s> do not forget to pray for him </s>	43650352.40072687
+<s> <s> i say you are </s>	643574399.3896264
+<s> <s> still there is destiny in it falling in love </s>	485242.67769892234
+<s> <s> if i fell over a cliff that <unk> over his base fell through the _nebeneinander_ ineluctably </s>	151013.90335612066
+<s> <s> elijah thirtytwo feet per <unk> is <unk> </s>	2882987.8819905207
+<s> <s> why did i run </s>	4649377.251791918
+<s> <s> naked women what about that eh </s>	2072269.308556133
+<s> <s> of me </s>	744509499.4275516
+<s> <s> well are not they </s>	6840367.4381518625
+<s> <s> first gentleman told mina that was so </s>	1001734.6934206466
+<s> <s> <unk> of geese </s>	395814.1532069876
+<s> <s> thou art i vow the <unk> progenitor <unk> none in this <unk> <unk> most <unk> <unk> </s>	1857267.2257232615
+<s> <s> the note of swinburne of all poets the white death and the ruddy birth </s>	30243522.025233608
+<s> <s> why they call him <unk> <unk> </s>	1413077862.1119583
+<s> <s> and faith he filled up </s>	356513.27363533503
+<s> <s> earth for instance pulling this and being pulled </s>	61025.67208278634
+<s> <s> creating the works from print editions not protected by you s. copyright law means that no one owns a united states copyright in these works so the foundation and you can copy and distribute it in the united states without permission and without paying copyright royalties </s>	149799.00603535937
+<s> <s> frankly though she had her <unk> or admirers i never cared much for her style </s>	64542.57326509244
+<s> <s> for terms apply e. dowden <unk> house </s>	191384.49147848136
+<s> <s> <unk> </s>	4088868.1126954276
+<s> <s> i smoked his <unk> </s>	198539.73534346043
+<s> <s> blazes boylan looked in her blouse with more favour the <unk> of the red flower between his smiling teeth </s>	4336414.4985906435
+<s> <s> amen says the citizen </s>	2885254.2638195935
+<s> <s> but bloom </s>	12493468.928761976
+<s> <s> why we left the church of rome </s>	347315470.69098496
+<s> <s> pat served uncovered dishes </s>	87351.63199736217
+<s> <s> mrs breen glory alice you do look a holy show </s>	224703.49317102978
+<s> <s> touch touch me </s>	5616854.11333978
+<s> <s> whisper who the <unk> hell s the johnny in the black <unk> </s>	209057.31804511716
+<s> <s> by the <unk> <unk> thanks be to jesus those funny little chaps are not unanimous </s>	206940.93804549024
+<s> <s> so saying he knocked loudly with his <unk> upon the open lattice </s>	910529.4604566569
+<s> <s> ned lambert laughing struck the newspaper on his knees repeating _the pensive bosom and the <unk> <unk> </s>	268483.29271426756
+<s> <s> that is the great empire they boast about of <unk> and whipped <unk> </s>	277966.37446688244
+<s> <s> but then why do not all women <unk> at the same time with the same moon i mean </s>	4073701.4188575074
+<s> <s> comes to a big thing in a year </s>	60862.23323821475
+<s> <s> dollard and cowley still urged the lingering singer out with it </s>	88034.28933886747
+<s> <s> to learn one must be humble </s>	214397.65388740427
+<s> <s> he inquired if it was john bull the political <unk> of that <unk> as it struck him the two identical names as a striking coincidence </s>	419250.54427728633
+<s> <s> seem to like it </s>	2480002.8510859692
+<s> <s> a <unk> attendant setting open the door but slightly made him a <unk> beck </s>	427503.56781423505
+<s> <s> kill </s>	6468258861.5278225
+<s> <s> inasmuch as leaning she sustained her blond hair for him to ribbon it for her cf <unk> cat </s>	75609.09916658836
+<s> <s> what had <unk> him from <unk> a <unk> song music by r. g. <unk> on the events of the past or <unk> for the actual years entitled _if brian <unk> could but come back and see old dublin now_ <unk> by michael gunn <unk> of the gaiety theatre <NUM> <NUM> <NUM> <NUM> south king street and to be <unk> into the sixth scene the valley of diamonds of the second edition january <NUM> of the grand annual christmas pantomime <unk> the <unk> produced by r. <unk> <NUM> december <NUM> written by <unk> <unk> <unk> by george a. <unk> and cecil <unk> costumes by mrs and miss whelan under the personal <unk> of mrs michael gunn <unk> by <unk> <unk> <unk> by thomas <unk> and sung by nelly bouverist <unk> girl </s>	464488.9782932118
+<s> <s> and <unk> of the <unk> </s>	24506836.325180106
+<s> <s> who comes through michan s land <unk> in sable armour </s>	25210.72443877604
+<s> <s> murder </s>	5472217.6532325195
+<s> <s> like these got out of hand <unk> </s>	966844.7388178261
+<s> <s> you are right there nosey flynn said </s>	4474832.42121655
+<s> <s> on land <unk> a <unk> moon revealed in imperfect varying phases of <unk> through the posterior <unk> of the <unk> <unk> skirt of a <unk> <unk> <unk> female a pillar of the cloud by day </s>	1538130.058013883
+<s> <s> good idea the <unk> </s>	44138097.17927896
+<s> <s> <unk> </s>	4088868.1126954276
+<s> <s> street of <unk> after </s>	12009749485.561176
+<s> <s> says he </s>	94217238.9247055
+<s> <s> amid the general vacant <unk> of the assembly a bell rang and while all were <unk> what might be the because miss callan entered and having spoken a few words in a low tone to young mr dixon <unk> with a profound bow to the company </s>	158826.69846700958
+<s> <s> the tympanum </s>	64531.43555374271
+<s> <s> a nation </s>	9260350.903993215
+<s> <s> the <unk> and <unk> plus <unk> of emotion were reached when the blushing bride elect burst her way through the serried <unk> of the bystanders and flung herself upon the muscular bosom of him who was about to be <unk> into eternity for her sake </s>	250853.87889227096
+<s> <s> a shout in the street stephen answered <unk> his shoulders </s>	1830893.9682280538
+<s> <s> and me with a soldier friend </s>	1297560.7226512344
+<s> <s> <unk> </s>	4088868.1126954276
+<s> <s> open your gates and sing <unk> </s>	317099.17141900037
+<s> <s> some people believe he said that we go on living in another body after death that we lived before </s>	155537.81697960917
+<s> <s> he <unk> his cigar angrily on bloom s ear where is that goddamned cursed <unk> </s>	534058.3711205602
+<s> <s> milly </s>	1635250340.6861744
+<s> <s> first watch o. i understand sir </s>	161712.15784820856
+<s> <s> what is the best news </s>	209284234.31905738
+<s> <s> come on come on ben dollard called </s>	3006901.791918359
+<s> <s> given away with the easter number of <unk> <unk> splendid masterpiece in art colours </s>	107242.04685015863
+<s> <s> agenbite of inwit remorse of conscience </s>	1654958.101530993
+<s> <s> maggy at the range <unk> down a greyish mass beneath <unk> <unk> twice with her <unk> and wiped her brow </s>	129966.47034711922
+<s> <s> <unk> these and <unk> <unk> they made a <unk> across the back of the customhouse and passed under the loop line bridge where a brazier of coke burning in front of a sentrybox or something like one attracted their rather lagging footsteps </s>	710567.992922333
+<s> <s> <unk> </s>	4088868.1126954276
+<s> <s> gerty <unk> sharply </s>	129830.5835642994
+<s> <s> must <unk> her way along </s>	47468.01506326496
+<s> <s> the fan half opening then closing and the missus is master </s>	46990.20524685706
+<s> <s> what am i saying barrels </s>	22795680.930204105
+<s> <s> he turned <unk> and crossed the firmer sand towards the <unk> </s>	1892523.56361742
+<s> <s> dressy fellow he was once </s>	12436.424551578639
+<s> <s> after one </s>	195835.4550565637
+<s> <s> martha </s>	2038558.1231686655
+<s> <s> call me richie </s>	5075656.209001648
+<s> <s> he peeped quickly inside the leather headband </s>	3835983.963271559
+<s> <s> the ultimate return </s>	43310.83716154646
+<s> <s> <unk> animals </s>	66813.50234593799
+<s> <s> her hoarse loud breath rattling in horror while all prayed on their knees </s>	61765.49049176301
+<s> <s> i bet that would have caught on </s>	145973.25470807357
+<s> <s> are you going to write it </s>	100311492.06862445
+<s> <s> your eyes are as <unk> as the <unk> of your stuffed fox </s>	1109131.97254706
+<s> <s> he asked </s>	31850325.07850191
+<s> <s> land him in <unk> if the <unk> beck <unk> the game </s>	2952189.2764796624
+<s> <s> mr allfours <unk> </s>	2255757.195743362
+<s> <s> they examine him curiously from under their <unk> brows and smile to his hasty bow </s>	42429.34809425124
+<s> <s> first watch sternly come to the station </s>	2316059.6310392176
+<s> <s> in the second <unk> rere of his bloom s house the light of a <unk> oil lamp with <unk> shade projected on a screen of <unk> blind supplied by frank o hara window blind curtain pole and <unk> <unk> manufacturer <NUM> <unk> street </s>	643186.1122080998
+<s> <s> second watch <unk> ah sure we were too </s>	428651.36689295457
+<s> <s> her ankles are linked by a slender <unk> </s>	146162.29030895396
+<s> <s> thanks old man hynes said </s>	3728485.993152603
+<s> <s> a gallant scene in truth it made </s>	26153.42186914186
+<s> <s> his brother used men as <unk> </s>	1903478.663559323
+<s> <s> let us sit down somewhere and <unk> </s>	1840621.5686422337
+<s> <s> in a <unk> it was count of a <unk> between two <unk> </s>	6591379.787288264
+<s> <s> j. j. o molloy turned the files <unk> over murmuring seeking continued on page six column four </s>	91294.6145044895
+<s> <s> the horse was just then </s>	196698.72925106852
+<s> <s> i hold this house </s>	620744.0098607758
+<s> <s> i am <unk> up simon with two men <unk> around the house trying to effect an entrance </s>	84391.63690137058
+<s> <s> on more than one occasion a dozen at the lowest near the north bull at dollymount he had remarked a <unk> old salt evidently derelict seated habitually near the not particularly redolent sea on the wall staring quite <unk> at it and it at him dreaming of fresh woods and pastures new as someone somewhere sings </s>	326013.3294699611
+<s> <s> bloom viewed a gallant <unk> hero in lionel marks s window </s>	2439553.158324268
+<s> <s> for <unk> bucket in my hand </s>	9603684.768398376
+<s> <s> edward the seventh appears in an archway </s>	5616709.879452818
+<s> <s> bloom an elbow resting in a hand a forefinger against his cheek she seems sad </s>	112486.86800911915
+<s> <s> huguenot name i expect that </s>	97895.74523506433
+<s> <s> william shakespeare and company limited </s>	767448.2777806078
+<s> <s> and joe asked him would he have another </s>	434277.70838164754
+<s> <s> who gave it to you </s>	10378566.95721062
+<s> <s> <unk> seed to carry away </s>	29577.964623350283
+<s> <s> says joe </s>	46128781.82455192
+<s> <s> who is <unk> you </s>	38638829.21797194
+<s> <s> their upper jaw they move </s>	54418.05371797909
+<s> <s> i suppose the skin cannot contract quickly enough when the flesh falls off </s>	88905.86278138304
+<s> <s> still she is a dear girl </s>	7360402.330653174
+<s> <s> looking for grub </s>	5074977.562989505
+<s> <s> say it was black for instance </s>	1261788.442991605
+<s> <s> <unk> around from one pub to another leaving it to your own honour with old giltrap s dog and getting fed up by the <unk> and <unk> </s>	119998.09692691457
+<s> <s> i could not believe it when i heard it </s>	465411.9657814427
+<s> <s> he went into the inner office closing the door behind him </s>	7742146.377434758
+<s> <s> i. some <unk> tramp on it in the morning </s>	651716.051453913
+<s> <s> <unk> asylum </s>	66816.90416639247
+<s> <s> cissy caffrey to the crowd no i was with the privates </s>	1308410.4101286358
+<s> <s> i would like my job </s>	9183180.333407557
+<s> <s> earnestly and really it is better the position </s>	293716.97295671364
+<s> <s> red rays are longest </s>	106802.18010153619
+<s> <s> nimbly they dance twirling their skipping ropes </s>	12618.237040318103
+<s> <s> mrs bloom dressed yet </s>	1074422.3428301723
+<s> <s> she brought back to his recollection the happy days of <unk> childhood together on the banks of <unk> liffey when they had indulged in the innocent <unk> of the young and <unk> of the dreadful present they both laughed heartily all the spectators including the venerable <unk> joining in the general merriment </s>	75173.31011180561
+<s> <s> easy now </s>	11861.892385350926
+<s> <s> <unk> orphans joining hands <unk> round him </s>	18259232.499738082
+<s> <s> the name </s>	94436014.27790855
+<s> <s> are you struck dumb </s>	380608.32404229074
+<s> <s> mark time </s>	432742.8103770617
+<s> <s> <unk> executed the awful murderer toad smith the citizen made a grab at the letter </s>	545917.2792594982
+<s> <s> goulding a flush struggling in his pale told mr bloom face of the night si in ned lambert s dedalus house sang it was rank and fame he mr bloom listened while he richie goulding told him mr bloom of the night he richie heard him si dedalus sing it was rank and <unk> in his ned lambert s house </s>	2093188.0736452432
+<s> <s> and look at this blasted rag says he </s>	5857428.755047438
+<s> <s> bloom through the <unk> saw a she will held at their ears </s>	113362.85523125091
+<s> <s> the glasses would take their fancy flashing </s>	139628.43705130936
+<s> <s> it all works out </s>	45639.88316100944
+<s> <s> good day stephen the professor said coming to peer over their shoulders </s>	322415.2564202832
+<s> <s> to give you the idea you are eating rumpsteak </s>	348731.83779439976
+<s> <s> pray for him prayed the bass of dollard </s>	706857.8351681116
+<s> <s> our saviour <unk> oval face talking in the dusk </s>	122895.37276390055
+<s> <s> well observed and those <unk> pockets of the skirt and slightly <unk> effect are <unk> to suggest <unk> of hip </s>	71483.31197532617
+<s> <s> not going to be any music </s>	5372451.752849465
+<s> <s> no more wandering about </s>	423130.0636763134
+<s> <s> mr dixon to turn the table took on to ask of mr mulligan himself whether his incipient <unk> upon which he <unk> him <unk> an <unk> <unk> in the <unk> <unk> or male womb or was due as with the noted physician mr <unk> <unk> to a wolf in the stomach </s>	395903.36592524813
+<s> <s> half and half i mean says the citizen </s>	15327293.109114299
+<s> <s> yes he could </s>	42599963.849431865
+<s> <s> am i awfully <unk> </s>	11691943.7258021
+<s> <s> <unk> ears to match </s>	34812.419594158186
+<s> <s> that was why he asked me to </s>	25061537.94297949
+<s> <s> she cries police </s>	59602.88758259669
+<s> <s> march </s>	11289.591248374523
+<s> <s> o do not they know </s>	243814528.54579854
+<s> <s> sceptre wins </s>	731943.2489513485
+<s> <s> as good as any other abbot s charms as <unk> <unk> s. </s>	2231233.013216368
+<s> <s> they see the <unk> and <unk> about where the different <unk> are rathmines blue dome adam and eve s saint <unk> o <unk> s. </s>	1404109.1668480157
+<s> <s> thank you sir </s>	305236072.0444697
+<s> <s> got money somewhere </s>	3965233.7531450824
+<s> <s> all walked after </s>	71996.2879655009
+<s> <s> if it was it was </s>	1064031803.1543349
+<s> <s> fancy being his wife </s>	1452236.7283224538
+<s> <s> <unk> as he slips on her finger a ruby ring là ci <unk> la <unk> mrs breen in a <unk> evening frock executed in moonlight blue a <unk> <unk> s <unk> on her brow with her <unk> fallen beside her <unk> satin slipper curves her palm softly breathing quickly <unk> e non you are hot </s>	529367.0784913584
+<s> <s> must be cowley </s>	857770.8001698926
+<s> <s> hard </s>	2038480.2544143477
+<s> <s> no <unk> this but thick rich <unk> </s>	594273.4887834396
+<s> <s> i will take this one he said </s>	126101024.44772553
+<s> <s> they list </s>	1408537772.4260902
+<s> <s> _the god <unk> the maiden <unk> </s>	47123.901641197
+<s> <s> at it again </s>	70202213.66739698
+<s> <s> i disturbed her at her <unk> that morning </s>	1741661.2239461266
+<s> <s> tell me his studied <unk> </s>	3214544.3381466814
+<s> <s> thing done </s>	81820147.92719746
+<s> <s> the <unk> of the age </s>	9907964.22265309
+<s> <s> lynch tossing a cigarette on to the table here </s>	209980.89477653557
+<s> <s> i <unk> to the god of the forest </s>	250341958.86625198
+<s> <s> we have not got the chance of a <unk> in hell </s>	18437495.456060436
